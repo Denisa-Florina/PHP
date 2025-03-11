@@ -12,6 +12,7 @@ Articles must be approved by an admin before being published.
 ✅ SQL Injection prevention (Prepared Statements)  
 ✅ Article publishing & moderation 
 ✅ Commenting system
+✅ Stored data in MySQL with XAMPP as the local development environment
 
 ## 🔧 Technologies  
 - PHP (Backend)  
