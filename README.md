@@ -10,8 +10,8 @@ Articles must be approved by an admin before being published.
 ✅ CSRF protection (`csrf_token`)  
 ✅ XSS prevention (`htmlspecialchars()`)  
 ✅ SQL Injection prevention (Prepared Statements)  
-✅ Article publishing & moderation 
-✅ Commenting system
+✅ Article publishing & moderation  
+✅ Commenting system   
 ✅ Stored data in MySQL with XAMPP as the local development environment
 
 ## 🔧 Technologies  
